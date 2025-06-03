@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritika Jha</h1>
 <h3 align="center">Full-Stack Developer | Focused on Building Scalable Backend Systems and Practical Solutions | Eager to Learn and Collaborate on New Projects</h3>
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **kritika.august@gmail.com**
 
